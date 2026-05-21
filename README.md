@@ -118,6 +118,7 @@ Para efetuar a compilação e o carregamento do código-fonte, instale as seguin
 ### 🌐 Modo Simulação (Ambiente Virtual)
 O circuito completo e funcional pode ser executado diretamente pelo navegador:
 * 🔗 **Link Wokwi:** [Acessar Simulação do Projeto](https://wokwi.com/projects/464224358385697793)
+* 🔗 ***Link Canvas:** [Acessar Video do Projeto](https://canva.link/n7yqjrr1k471zjd)
 
 
 ### 💻 Modo Hardware Real (Computador Local)
